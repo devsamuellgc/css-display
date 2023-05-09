@@ -1,0 +1,33 @@
+div {
+    border: 1px solid black;
+    height: 150px;
+    width: 200px;
+}
+
+p {
+    color: red;
+}
+
+span {
+    color: blue;
+}
+
+.display-none {
+    display: none;
+}
+
+.display-block {
+    display: block;
+}
+
+.display-inline {
+    display: inline;
+}
+
+.display-inline-block {
+    display: inline-block;
+}
+
+.display-flex {
+    display: flex;
+}
