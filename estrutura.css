@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+}
+
+.padding {
+    padding: 0 15px;
+}
+
+.container {
+    display: flex;
+    gap: 10px;
+    min-width: 100%;
+    flex-direction: column;
+}
+
+div,
+.header,
+.footer {
+    border: 1px solid black;
+}
+
+div {
+    height: 115px;
+    width: 100%;
+}
+
+.footer,
+.header {
+    height: 30px;
+}
+
+.double-section {
+    display: flex;
+    gap: 5px;
+}
+
+.triple-section {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
